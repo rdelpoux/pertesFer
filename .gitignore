@@ -1,0 +1,18 @@
+# Résultats régénérables et lourds : calculPertes.m et trajectoires.m les recréent
+calculPertes/resultats/*
+!calculPertes/resultats/pertes.csv
+trajectoires/cartos/
+
+# Fichiers temporaires de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.dvi
+*.ps
+
+# MATLAB
+*.asv

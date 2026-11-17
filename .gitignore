@@ -16,3 +16,7 @@ trajectoires/cartos/
 
 # MATLAB
 *.asv
+
+# Consignes, mémoire et journal Claude Code : locaux, non publiés
+.claude/
+CLAUDE.md
